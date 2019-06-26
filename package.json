@@ -1,7 +1,7 @@
 {
   "name": "react-google-books",
   "version": "1.0.0",
-  "description": "A React-based Google Books Search app. Create React components, work with helper/util functions, and utilize React lifecycle methods to query and display books based on user searches. Use Node, Express and MongoDB so that users can save books to review or purchase later.",
+  "description": "A React-based Google Books Search app.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -16,15 +16,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/keenwilson/react-google-books.git"
+    "url": "git+https://github.com/SheriffHobo/Google-Book-Search.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/keenwilson/react-google-books/issues"
+    "url": "https://github.com/SheriffHobo/Google-Book-Search/issues"
   },
-  "homepage": "https://github.com/keenwilson/react-google-books#readme",
+  "homepage": "https://github.com/SheriffHobo/Google-Book-Search#readme",
   "devDependencies": {
     "concurrently": "^4.1.0",
     "nodemon": "^1.18.7"
