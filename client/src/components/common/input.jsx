@@ -1,5 +1,4 @@
 import React from "react";
-// ...rest operator includes any properties other than 'name', 'label', and 'error'
 const Input = ({ name, label, error, ...rest }) => {
   return (
     <div className="form-group">
